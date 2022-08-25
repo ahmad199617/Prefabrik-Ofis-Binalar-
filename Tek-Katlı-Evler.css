@@ -44,7 +44,6 @@
                     border: 0;
                     margin: 0;
                     /* overflow-x: hidden; */
-                    background-color: #696969;
                 }
 
                     a{text-decoration: none;}
@@ -878,8 +877,8 @@
                         }
                         .PRODUCTS-img-big {
                             width: 98%;
-                            background-color: red;
                             overflow: hidden;
+                            box-shadow: 0px 0px 15px #898989;
                         }
                         .PRODUCTS-img-small-div {
                             width: 98%;
